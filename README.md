@@ -1,10 +1,10 @@
 <?code-excerpt path-base="example"?>
 
-# json_forms
+# json_forms_renderer
 
 [![pub package](https://img.shields.io/pub/v/json_forms_renderer.svg)](https://pub.dev/packages/json_forms_renderer)
 
-A Flutter package to render forms from JSON Schema based on https://jsonforms.io
+A Flutter package to render forms from JSON Schema based on https://jsonforms.io and https://json-schema.org
 
 ## Features Supported
 
