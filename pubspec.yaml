@@ -1,8 +1,8 @@
-name: json_forms
+name: json_forms_renderer
 description: "A Flutter package to render forms from JSON Schema based on https://jsonforms.io"
 version: 1.0.0
 homepage: https://pyck.ai/
-repository: https://github.com/pyck-ai/json-forms-flutter
+repository: https://github.com/pyck-ai/json-forms-renderer-flutter
 
 environment:
   sdk: ^3.7.0

@@ -2,7 +2,7 @@
 
 # json_forms
 
-[![pub package](https://img.shields.io/pub/v/json_forms.svg)](https://pub.dev/packages/json_forms)
+[![pub package](https://img.shields.io/pub/v/json_forms_renderer.svg)](https://pub.dev/packages/json_forms_renderer)
 
 A Flutter package to render forms from JSON Schema based on https://jsonforms.io
 
