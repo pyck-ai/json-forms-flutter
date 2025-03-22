@@ -6,6 +6,17 @@
 
 A Flutter package to render forms from JSON Schema based on https://jsonforms.io and https://json-schema.org
 
+## Usage
+
+First, add `json_forms_renderer` as a dependency in your pubspec.yaml file.
+
+```yaml
+dependencies:
+  json_forms_renderer: ^1.0.0
+```
+
+Don't forget to `flutter pub get`.
+
 ## Features Supported
 
 See the example app for detailed implementation information.
