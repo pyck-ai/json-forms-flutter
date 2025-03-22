@@ -10,25 +10,25 @@ A Flutter package to render forms from JSON Schema based on https://jsonforms.io
 
 See the example app for detailed implementation information.
 
-| **Control**                      | **Type**        | **Supported Mobile** |
-|----------------------------------|---------------|-----------------|
-| **Text**                         | string        | ✅               |
-| **Textarea**                     | string        | ✅               |
-| **RichText**                     | string        | ❌               |
-| **Email**                        | string        | ❌               |
-| **Select (Enum, single select)** | string        | ✅               |
-| **Select (Enum, multi select)**  | string        | ❌               |
-| **Number**                       | number        | ✅               |
-| **Slider**                       | number        | ❌               |
-| **Integer**                      | integer       | ✅               |
-| **Checkbox**                     | boolean       | ✅               |
-| **Toggle**                       | boolean       | ❌               |
-| **Date**                         | string        | ✅               |
-| **Time**                         | string        | ❌               |
-| **Date&Time**                    | string        | ❌               |
-| **DateRange**                    | range(date)   | ❌               |
-| **SliderRange**                  | range(number) | ❌               |
-| **Files**                        | file          | ❌               |
+| **Control**                      | **Type**        | **Supported** |
+|----------------------------------|---------------|---------------|
+| **Text**                         | string        | ✅             |
+| **Textarea**                     | string        | ✅             |
+| **RichText**                     | string        | ❌             |
+| **Email**                        | string        | ❌             |
+| **Select (Enum, single select)** | string        | ✅             |
+| **Select (Enum, multi select)**  | string        | ❌             |
+| **Number**                       | number        | ✅             |
+| **Slider**                       | number        | ❌             |
+| **Integer**                      | integer       | ✅             |
+| **Checkbox**                     | boolean       | ✅             |
+| **Toggle**                       | boolean       | ❌             |
+| **Date**                         | string        | ✅             |
+| **Time**                         | string        | ❌             |
+| **Date&Time**                    | string        | ❌             |
+| **DateRange**                    | range(date)   | ❌             |
+| **SliderRange**                  | range(number) | ❌             |
+| **Files**                        | file          | ❌             |
 
 ## Example
 
@@ -107,5 +107,5 @@ This example renders the following form based on the schema hosted here: https:/
 
 You can check out the example repository for more examples.
 
-![Example JSON Form](example.png)
+<img src="example.png" width="320" alt="Form Example">
 
