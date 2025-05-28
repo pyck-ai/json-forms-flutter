@@ -3,6 +3,7 @@
 # json_forms_renderer
 
 [![pub package](https://img.shields.io/pub/v/json_forms_renderer.svg)](https://pub.dev/packages/json_forms_renderer)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyck-ai%2Fjson-forms-renderer-flutter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyck-ai%2Fjson-forms-renderer-flutter?ref=badge_shield)
 
 A Flutter package to render forms from JSON Schema based on https://jsonforms.io and https://json-schema.org
 
@@ -120,3 +121,7 @@ You can check out the example repository for more examples.
 
 <img src="example.png" width="320" alt="Form Example">
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyck-ai%2Fjson-forms-renderer-flutter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyck-ai%2Fjson-forms-renderer-flutter?ref=badge_large)
